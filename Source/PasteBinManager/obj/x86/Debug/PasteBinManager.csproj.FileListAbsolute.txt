@@ -1,0 +1,39 @@
+C:\Users\Doddy\Desktop\Mis Programas\PasteBin Manager\PasteBinManager\PasteBinManager\bin\Debug\PasteBinManager.exe
+C:\Users\Doddy\Desktop\Mis Programas\PasteBin Manager\PasteBinManager\PasteBinManager\bin\Debug\PasteBinManager.pdb
+C:\Users\Doddy\Desktop\Mis Programas\PasteBin Manager\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.Form1.resources
+C:\Users\Doddy\Desktop\Mis Programas\PasteBin Manager\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.Properties.Resources.resources
+C:\Users\Doddy\Desktop\Mis Programas\PasteBin Manager\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.csproj.GenerateResource.Cache
+C:\Users\Doddy\Desktop\Mis Programas\PasteBin Manager\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.exe
+C:\Users\Doddy\Desktop\Mis Programas\PasteBin Manager\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.pdb
+C:\Users\Doddy\Desktop\Mis Programas\Programas\PasteBin Manager\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.exe
+C:\Users\Doddy\Desktop\Mis Programas\Programas\PasteBin Manager\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.pdb
+C:\Users\Doddy\Desktop\Mis Programas\Programas\PasteBin Manager\PasteBinManager\PasteBinManager\bin\Debug\PasteBinManager.exe
+C:\Users\Doddy\Desktop\Mis Programas\Programas\PasteBin Manager\PasteBinManager\PasteBinManager\bin\Debug\PasteBinManager.pdb
+C:\Users\Doddy\Desktop\Mis Programas\Programas\PasteBin Manager\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.Form1.resources
+C:\Users\Doddy\Desktop\Mis Programas\Programas\PasteBin Manager\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.Properties.Resources.resources
+C:\Users\Doddy\Desktop\Mis Programas\Programas\PasteBin Manager\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.csproj.GenerateResource.Cache
+C:\Users\Doddy\Desktop\Mis Programas\Programas\PasteBin Manager\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.csprojResolveAssemblyReference.cache
+C:\Users\Doddy\Desktop\Mis Programas\Programas\PasteBin Manager\Source\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.exe
+C:\Users\Doddy\Desktop\Mis Programas\Programas\PasteBin Manager\Source\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.pdb
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados\PasteBin Manager\Source\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.exe
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados\PasteBin Manager\Source\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.pdb
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados\PasteBin Manager\Source\PasteBinManager\PasteBinManager\bin\Debug\PasteBinManager.exe
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados\PasteBin Manager\Source\PasteBinManager\PasteBinManager\bin\Debug\PasteBinManager.pdb
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados\PasteBin Manager\Source\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.csprojResolveAssemblyReference.cache
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados\PasteBin Manager\Source\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.FormHome.resources
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados\PasteBin Manager\Source\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.Properties.Resources.resources
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados\PasteBin Manager\Source\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.csproj.GenerateResource.Cache
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados Beta\PasteBin Manager\Source\PasteBinManager\PasteBinManager\bin\Debug\PasteBinManager.exe
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados Beta\PasteBin Manager\Source\PasteBinManager\PasteBinManager\bin\Debug\PasteBinManager.pdb
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados Beta\PasteBin Manager\Source\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.FormHome.resources
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados Beta\PasteBin Manager\Source\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.Properties.Resources.resources
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados Beta\PasteBin Manager\Source\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.csproj.GenerateResource.Cache
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados Beta\PasteBin Manager\Source\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.exe
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados Beta\PasteBin Manager\Source\PasteBinManager\PasteBinManager\obj\x86\Debug\PasteBinManager.pdb
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados Beta\PasteBin Manager\Source\PasteBinManager\bin\Debug\PasteBinManager.exe
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados Beta\PasteBin Manager\Source\PasteBinManager\bin\Debug\PasteBinManager.pdb
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados Beta\PasteBin Manager\Source\PasteBinManager\obj\x86\Debug\PasteBinManager.FormHome.resources
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados Beta\PasteBin Manager\Source\PasteBinManager\obj\x86\Debug\PasteBinManager.Properties.Resources.resources
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados Beta\PasteBin Manager\Source\PasteBinManager\obj\x86\Debug\PasteBinManager.csproj.GenerateResource.Cache
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados Beta\PasteBin Manager\Source\PasteBinManager\obj\x86\Debug\PasteBinManager.exe
+C:\Users\Doddy\Desktop\Mis Programas\Programas Parte 2\Mejorados Beta\PasteBin Manager\Source\PasteBinManager\obj\x86\Debug\PasteBinManager.pdb
