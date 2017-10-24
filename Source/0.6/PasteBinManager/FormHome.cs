@@ -198,11 +198,11 @@ namespace PasteBinManager
             List<string> titulos = new List<string> { };
             List<string> links = new List<string> { };
 
-            Match search = Regex.Match(codigofuente, "class=(.*) title=(.*) alt=(.*) border=(.*)> <a href=\"/(.*)\">(.*)</a></td>", RegexOptions.IgnoreCase);
+            Match search = Regex.Match(codigofuente, "class=(.*) title=(.*) alt=(.*) /> <a href=\"/(.*)\">(.*)</a></td>", RegexOptions.IgnoreCase);
             while (search.Success)
             {
-                string id = search.Groups[5].Value;
-                string titulo = search.Groups[6].Value;
+                string id = search.Groups[4].Value;
+                string titulo = search.Groups[5].Value;
                 titulo = titulo.Replace("[", "-");
                 titulo = titulo.Replace("]", "-");
                 string link = "http://pastebin.com/raw.php?i=" + id;
@@ -219,6 +219,9 @@ namespace PasteBinManager
                 mmOutput.AppendText("[+] Downloaded : " + ids[i] + "\n");
                 crear_archivo(titulos[i] + ".txt", web.DownloadString(links[i]));
             }
+
+            status.Text = "[+] Done";
+            this.Refresh();
 
             SoundPlayer sound2 = new SoundPlayer(PasteBinManager.Properties.Resources.scanfin);
             sound2.Play();
